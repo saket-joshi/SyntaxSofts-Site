@@ -55,9 +55,9 @@ angular
         templateUrl: 'views/salesforce.html',
         controller: 'SalesforceCtrl',
     })
-    .when('/domains', {
-        templateUrl: 'views/domains.html',
-        controller: 'DomainsCtrl',
+    .when('/dotnet', {
+        templateUrl: 'views/dotnet.html',
+        controller: 'DotNetCtrl',
     })
     .when('/products', {
         templateUrl: 'views/products.html',

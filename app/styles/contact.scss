@@ -1,0 +1,23 @@
+@import "services.css";
+
+.contact-panel .panel-heading h3 {
+    margin: 5px 0px 0px 0px;
+}
+
+.contact-panel .panel-heading h3 span {
+    margin-left: 10px;
+}
+
+.address-container, .google-maps-container {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 10px 15px;
+}
+
+.row-google-map {
+    padding: 15px;
+}
+
+.google-maps-container #contact-map {
+    height: 400px;
+}

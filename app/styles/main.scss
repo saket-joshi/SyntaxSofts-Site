@@ -35,6 +35,10 @@ body {
     }
 }
 
+.navbar .container, .footer .container {
+    max-width: 100%;
+}
+
 /* Margin added for site information */
 .site-info {
     margin-top: 100px;

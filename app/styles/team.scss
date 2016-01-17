@@ -1,0 +1,14 @@
+@import "services.css";
+
+.core-team .thumbnail .caption {
+    overflow: auto;
+}
+
+.network-icons {
+    float: right;
+    margin: 5px 5px;
+}
+
+.network-icons span:not(:first-child) {
+    padding: 5%;
+}
